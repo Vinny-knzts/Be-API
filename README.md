@@ -41,7 +41,7 @@ DB_DATABASE= Nome do banco que será utilizado
 
 # Banco de dados
 
-Após definir as váriaveis do banco de dados, execute o comando "node ace migration:run" para criar as tabelas no banco
+Após definir as variáveis do banco de dados, execute o comando "node ace migration:run" para criar as tabelas no banco
 
 ## Tabelas
 
@@ -118,7 +118,7 @@ date: Data da venda
 
 created_at: Data de criação do dado
 <br/>
-updated_at: Data da última atalização do dado
+updated_at: Data da última atualização do dado
 
 # Rodando o projeto
 
